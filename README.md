@@ -16,3 +16,10 @@ Support For:
   - Color
   - Intensity
   - Radius
+
+Bugs:
+* Outputs to PPM lol. 
+* When light y value is above ~60 weird things happen ;)
+* Emissive material sucks
+* Emissive material only works for sphere
+* Shadows look gross
